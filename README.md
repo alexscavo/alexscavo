@@ -1,6 +1,6 @@
 ## Hi, I am Alessandro Scavone 👋  
 
-I am a Computer Engineering Graduate completing my Master’s Degree in Artificial Intelligence and Data Analytics at Politecnico di Torino. I am currently conducting my Master's research thesis at EURECOM (France) in the field of medical imaging.
+I am a Computer Engineering Graduate completing my Master’s Degree in Artificial Intelligence and Data Analytics at Politecnico di Torino. I am currently conducting my Research's thesis at EURECOM (France) in the field of medical imaging.
 
 
 - 🔭 Research Topic: Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers applied to brain vessel analysis
