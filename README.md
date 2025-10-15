@@ -12,12 +12,12 @@ I am a Computer Engineering Graduate completing my Master’s Degree in Artifici
 ---
 
 ### 🚀 Notable Projects
-- 🔹 **Real-time Domain Adaptation in Semantic Segmentation** (team) – https://github.com/alexscavo/Real-time-Domain-Adaptation-in-Semantic-Segmentation  
-- 🔹 **Sim-to-Real Transfer in Reinforcement Learning** (pair) – https://github.com/alexscavo/Sim-to-Real-Transfer-Project-RL  
-- 🔹 **Fault Injection Environment for Redundant Applications** (team) – https://github.com/alexscavo/Fault-Injection-Env-for-Redundant-Application  
-- 🔹 **Proximity Sensor Project** – https://github.com/alexscavo/Proximity-Sensor-Project  
-- 🔹 **Lotto Web App** – https://github.com/alexscavo/Lotto-Web-App  
-- 🔹 **EzElectronics** (team e-commerce site) – https://github.com/alexscavo/EzElectronics  
+- [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/alexscavo/Real-time-Domain-Adaptation-in-Semantic-Segmentation) *(team)*
+- [Sim-to-Real Transfer in Reinforcement Learning](https://github.com/alexscavo/Sim-to-Real-Transfer-Project-RL) *(pair)*
+- [Fault Injection Environment for Redundant Applications](https://github.com/alexscavo/Fault-Injection-Env-for-Redundant-Application) *(team)*
+- [Proximity Sensor Project](https://github.com/alexscavo/Proximity-Sensor-Project)
+- [Lotto Web App](https://github.com/alexscavo/Lotto-Web-App)
+- [EzElectronics](https://github.com/alexscavo/EzElectronics) *(team)*
 
 ---
 
