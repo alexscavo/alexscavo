@@ -1,26 +1,25 @@
-## Hi, I am Alessandro Scavone 👋
+## Hi, I am Alessandro Scavone 👋  
 
-<!--
-**alexscavo/alexscavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering Graduate completing my Master’s Degree in Artificial Intelligence and Data Analytics at Politecnico di Torino. I am currently conducting my Master's research thesis at EURECOM (France) in the field of medical imaging.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a Computer Engineering Graduate completing his master Degree in Artificial Intelligence and Data Analytics at Politecnico di Torino. I am currently doing my Master research Thesis at Eurecom.
-
-- 🔭 I’m currently researching Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers applied to brain vessel analysis in medical imaging
-- 🌱 Exploring Deep Learning for medical imaging (Transformers, GNNs, domain adaptation)
+- 🔭 Research Topic: Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers applied to brain vessel analysis
+- 🌱 Research Interests: Deep Learning, Medical Imaging, Domain Adaptation, Graph Neural Networks
 - 💬 Ask me about: Python, C, Rust, ML frameworks, Java, JavaScript, Computer Architecture, Assembly, SQL
-- 📫 How to reach me: alex.scavone@hotmail.it alessandro.scavone@eurecom.fr
+- 📫 Contact: alex.scavone@hotmail.it | alessandro.scavone@eurecom.fr
+
+
+---
+
+### 🚀 Notable Projects
+- 🔹 **Real-time Domain Adaptation in Semantic Segmentation** (team) – https://github.com/alexscavo/Real-time-Domain-Adaptation-in-Semantic-Segmentation  
+- 🔹 **Sim-to-Real Transfer in Reinforcement Learning** (pair) – https://github.com/alexscavo/Sim-to-Real-Transfer-Project-RL  
+- 🔹 **Fault Injection Environment for Redundant Applications** (team) – https://github.com/alexscavo/Fault-Injection-Env-for-Redundant-Application  
+- 🔹 **Proximity Sensor Project** – https://github.com/alexscavo/Proximity-Sensor-Project  
+- 🔹 **Lotto Web App** – https://github.com/alexscavo/Lotto-Web-App  
+- 🔹 **EzElectronics** (team e-commerce site) – https://github.com/alexscavo/EzElectronics  
+
+---
 
 ### Technology Stack
 ### 🧠 AI & Machine Learning
@@ -44,7 +43,7 @@ I am a Computer Engineering Graduate completing his master Degree in Artificial 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css)
 
 ### 🛠️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -64,10 +63,3 @@ I am a Computer Engineering Graduate completing his master Degree in Artificial 
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### Notable Projects
-https://github.com/alexscavo/Real-time-Domain-Adaptation-in-Semantic-Segmentation (team)
-https://github.com/alexscavo/Sim-to-Real-Transfer-Project-RL (pair)
-https://github.com/alexscavo/Proximity-Sensor-Project
-https://github.com/alexscavo/Lotto-Web-App
-https://github.com/alexscavo/Fault-Injection-Env-for-Redundant-Application (team)
-https://github.com/alexscavo/EzElectronics (team)
