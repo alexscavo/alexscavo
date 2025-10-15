@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Alessandro Scavone 👋
 
 <!--
 **alexscavo/alexscavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Engineering Graduate completing his master Degree in Artificial Intelligence and Data Analytics at Politecnico di Torino. I am currently doing my Master research Thesis at Eurecom.
+
+🔭 I’m currently researching Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers applied to brain vessel analysis in medical imaging
+🌱 Exploring Deep Learning for medical imaging (Transformers, GNNs, domain adaptation)
+💬 Ask me about: Python, C, Rust, ML frameworks, Java, JavaScript, Computer Architecture, Assembly, SQL
+📫 How to reach me: alex.scavone@hotmail.it alessandro.scavone@eurecom.fr
